@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zijun Yao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist, AI for Healthcare
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IBM Research
+  url: "https://www.research.ibm.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a research scientist at IBM research working on AI for healthcare. I received my Ph.D. in Management Science & Information System from the Rutgers University in 2018 supervised by Prof. Hui Xiong. My research interests include data mining and its broad range of applications on health informatics, mobile intelligence, and natural language processing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Mining
+- Health Informatics
+- Mobile Intelligence
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Information Systems
+    institution: Rutgers University
+    year: 2018
+  - course: MS in Computer Engineering
+    institution: Northeastern University
+    year: 2011
+  - course: BSc in Electrical Engineering
+    institution: Guangdong University of Technology, China
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,19 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zijun.yao@ibm.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3RU4Yc8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
+- icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
